@@ -1,0 +1,2 @@
+# mantis
+academy sample project
